@@ -4,6 +4,7 @@
 int main()
 {
     int arr[6]={1};
+    int x;
     int *ptr[2];
     printf("Hello world!\n %d",arr[2]);
     return 0;
